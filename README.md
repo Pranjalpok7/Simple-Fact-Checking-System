@@ -1,1 +1,1 @@
-# Simple-Fact-Checking-System
+# RAG for club constitution 
